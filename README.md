@@ -1,0 +1,1 @@
+# custom-inspec-resources
